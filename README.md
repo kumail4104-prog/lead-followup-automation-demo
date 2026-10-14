@@ -25,4 +25,4 @@ Here is a quick look at how the workflow is connected.
 
 ## Testing
 
-he workflow structure and field mapping were reviewed with sample data. It has not been connected to a live form or messaging service.
+workflow structure and field mapping were reviewed with sample data. It has not been connected to a live form or messaging service.
