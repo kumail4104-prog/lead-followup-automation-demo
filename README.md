@@ -12,3 +12,7 @@ A new lead shares their details through a form..." "...The information is organi
 - form for collecting new lead details
 - follow up messages for staying in touch
 - appointment booking for interested leads
+
+## Project Status
+
+This is a portfolio demo built with sample data. It is designed to show the workflow clearly without using real client information or sending live messages
